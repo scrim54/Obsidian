@@ -9,3 +9,4 @@ Pg_probacup интерементальное
 ![[Pasted image 20260507222733.png]]
 ![[Pasted image 20260507222739.png]]
 ![[Pasted image 20260507222744.png]]
+![[Pasted image 20260507222750.png]]Pgconf
